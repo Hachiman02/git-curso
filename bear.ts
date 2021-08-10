@@ -1,6 +1,6 @@
 import {Animal} from "./Animal";
 
-class bear extends Animal{
+class bear extends Animal{asdasdasd
 
     food: string;
 
